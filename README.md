@@ -305,8 +305,8 @@ New-NetFirewallRule -DisplayName "Teleport USB Server" -Direction Inbound -Actio
 
 <div align="center">
 
-**Made by [DEVGURU Corp.](https://github.com/devguru-corp)**
+**Made by [DEVGURU Corp.](https://www.devguru.co.kr)**
 
-<sub>Copyright &copy; 2023 DEVGURU. All rights reserved.</sub>
+<sub>Copyright &copy; 2026 DEVGURU. All rights reserved.</sub>
 
 </div>
