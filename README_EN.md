@@ -7,7 +7,7 @@
 [![Version](https://img.shields.io/badge/Version-1.3.0-blue?style=flat-square)](https://github.com/devguru-corp/TeleportUSB/releases)
 [![OS](https://img.shields.io/badge/OS-Windows%2010%2064bit-0078D6?style=flat-square&logo=windows)](https://github.com/devguru-corp/TeleportUSB)
 [![License](https://img.shields.io/badge/License-Proprietary-red?style=flat-square)](https://github.com/devguru-corp/TeleportUSB)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevguru-corp%2FTeleportUSB&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Visitors](https://vbr.nathanchung.dev/badge?page_id=devguru-corp.TeleportUSB&color=55acb7&style=flat-square&logo=github)](https://github.com/devguru-corp/TeleportUSB)
 
 <br>
 
